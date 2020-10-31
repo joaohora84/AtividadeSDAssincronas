@@ -11,5 +11,5 @@ Atividade sobre chamadas assíncronas para atividade sistema distribuídos
     
 3 - Altere o código para resolver o problema.
 
-    R: Inserir um IF par ao h2 ser mostrado somente se a request() tiver um retorno.
+    R: Inserir um IF para ao h2 ser mostrado somente se a request() tiver um retorno.
     
